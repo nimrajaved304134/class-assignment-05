@@ -8,7 +8,7 @@ const Header = () => {
 
 {/* logo */}
 
-    <Link href='/' className='md:text-[60px] text-[75px] leading-[93.75] font-rye  hover:scale-110 transition-transform text-white font-serif'>
+    <Link href='/' className='text-[50px] md:text-[60px] lg:text-[75px] leading-[93.75] font-rye  hover:scale-110 transition-transform text-white font-serif'>
     MANZZARI
     </Link>
 
